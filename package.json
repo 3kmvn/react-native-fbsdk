@@ -1,0 +1,69 @@
+{
+  "_from": "git+https://github.com/thanhzusu/react-native-fbsdk.git",
+  "_id": "react-native-fbsdk@0.7.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-fbsdk",
+  "_phantomChildren": {
+    "xmldom": "0.1.27"
+  },
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-fbsdk@git+https://github.com/thanhzusu/react-native-fbsdk.git",
+    "name": "react-native-fbsdk",
+    "escapedName": "react-native-fbsdk",
+    "rawSpec": "git+https://github.com/thanhzusu/react-native-fbsdk.git",
+    "saveSpec": "git+https://github.com/thanhzusu/react-native-fbsdk.git",
+    "fetchSpec": "https://github.com/thanhzusu/react-native-fbsdk.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/thanhzusu/react-native-fbsdk.git#3859dc64f51199de9ffd4c28db469889009075bb",
+  "_spec": "react-native-fbsdk@git+https://github.com/thanhzusu/react-native-fbsdk.git",
+  "_where": "/Users/hoaphan/Documents/banvien/3KM/mobile-app",
+  "author": {
+    "name": "Zhuowen Deng"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/react-native-fbsdk/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": {
+    "name": "Pouya Larjani"
+  },
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "fastfall": "^1.5.1",
+    "got": "^7.0.0",
+    "plist": "^2.1.0",
+    "progress": "^2.0.0",
+    "pump": "^1.0.2",
+    "xcode": "^0.9.3"
+  },
+  "deprecated": false,
+  "description": "Facebook SDK support for React Native apps.",
+  "homepage": "https://github.com/facebook/react-native-fbsdk/",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "facebook",
+    "core"
+  ],
+  "license": "Facebook Platform License",
+  "main": "./js/index.js",
+  "name": "react-native-fbsdk",
+  "peerDependencies": {
+    "react-native": ">=0.44.0",
+    "prop-types": "15.x.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook/react-native-fbsdk.git"
+  },
+  "version": "0.7.0"
+}
